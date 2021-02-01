@@ -2,7 +2,7 @@
 <br>
 <p>Exercício proposto no Bootcamp &#128279; <a href="https://web.digitalinnovation.one/track/avanade-angular-developerAvanade"> Avanade Angular Developer </a> onde deveríamos criar um clone da interface da Netflix.</p>
 <br>
-<p>Além de descobri muita coisa nova:</p>
+<p>Também descobri muita coisa nova:</p>
 <ul>
     <li>Reforçado a importância de itens 'pais' e 'filhos' e suas formatações;</li>
     <li>Trabalhar um pouco com JQuery na parte do carrossel;</li>
