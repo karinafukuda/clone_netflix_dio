@@ -4,7 +4,7 @@
 <br>
 <p>Além de descobri muita coisa nova:</p>
 <ul>
-    <li>Roforçado a importância de itens 'pais' e 'filhos' e suas formatações;</li>
+    <li>Reforçado a importância de itens 'pais' e 'filhos' e suas formatações;</li>
     <li>Trabalhar um pouco com JQuery na parte do carrossel;</li>
     <li>Usar propriedades que mantém um padrão de cores no topo do CSS (root:);</li>
     <li>Escurecer a imagem para um efeito de gradiente;</li>
